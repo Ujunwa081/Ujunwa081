@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am currently an ALX student aspiring to be a front-end developer
 
 <!--
 **Ujunwa081/Ujunwa081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
